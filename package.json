@@ -1,0 +1,10 @@
+{
+  "name": "testgulp",
+  "version": "0.0.1",
+  "description": "Testing gulp ",
+  "repository": {
+    "type": "git",
+    "url": "?.git"
+  },
+  "author": "Co Verhoeven"
+}
